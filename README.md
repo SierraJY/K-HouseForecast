@@ -1,5 +1,5 @@
 # Project Naming and Branding
-==K-HouseForecast==
+**K-HouseForecast**
 
 # What is K-HouseForecast?
 This project is an open-source program for predicting South Korean real estate prices.
@@ -12,7 +12,7 @@ This project will benefit real estate investors in formulating investment strate
 There is a function to predict how real estate prices will change in the future using 10 years of price data. By dividing the data by region, it is possible to compare prices by region.
 
 # Preferred Development Language(s):
-==Python3(only)==
+Python3 **(only)**
 
 
 
