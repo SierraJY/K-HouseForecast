@@ -1,4 +1,4 @@
-# Project Naming and Branding
+# Project Name
 **K-HouseForecast**
 
 # What is K-HouseForecast?
