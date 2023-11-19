@@ -1,5 +1,5 @@
 # Project Name
-**K-HouseForecast** OSS-Group11
+**K-HouseForecast** (OSS-Group11)
 
 # Documentation Link
 https://k-houseforecast.readthedocs.io/en/latest/index.html
