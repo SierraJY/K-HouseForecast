@@ -4,6 +4,9 @@
 # Documentation Link
 https://k-houseforecast.readthedocs.io/en/latest/index.html
 
+# Team
+Park Ju Yeon, Shin Seok Jun
+
 # What is K-HouseForecast?
 This project is an open-source program for predicting South Korean real estate prices.
 
