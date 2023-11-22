@@ -6,12 +6,15 @@ Korean Real Estate Prediction Model User Guide
 
 Introduction
 ------------
+
 This user guide provides instructions on how to use the Korean real estate prediction model developed using Python, Pandas, Numpy, and LightGBM.
 
-Prerequisites
-Python 3.x
-Jupyter Notebook or Jupyter Lab
-Required libraries installation: Pandas, Numpy, LightGBM, etc.
+.. note::
+  Prerequisites
+  Python 3.x
+  Jupyter Notebook or Jupyter Lab
+  Required libraries installation: Pandas, Numpy, LightGBM, etc.
+
 bash
 Copy code
 pip install pandas numpy lightgbm
