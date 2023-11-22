@@ -2,7 +2,7 @@ HowToUse
 ========
 
 Korean Real Estate Prediction Model User Guide
-==============================================
+----------------------------------------------
 
 Introduction
 ------------
