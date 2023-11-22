@@ -28,8 +28,8 @@ Usage Instructions
 
 1. Environment Setup
 
-   * Confirm the installation of Python and required libraries.
-   * Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
+    * Confirm the installation of Python and required libraries.
+    * Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
 
 2. Data Loading
 
