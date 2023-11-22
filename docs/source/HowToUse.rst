@@ -50,7 +50,7 @@ Usage Instructions
 
 6. Conclusion
 
-    *. Once the tasks are completed, run all cells and save the results.
+    * Once the tasks are completed, run all cells and save the results.
 
 .. note::
     If warnings or errors occur during code execution, review the messages and resolve any issues.
