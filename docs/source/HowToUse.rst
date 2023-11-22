@@ -12,11 +12,8 @@ This user guide provides instructions on how to use the Korean real estate predi
     Jupyter Notebook or Jupyter Lab
     Required libraries installation: Pandas, Numpy, LightGBM, etc.
 
-bash
-Copy code
-
 .. code-block:: console
-  pip install pandas numpy lightgbm
+    pip install pandas numpy lightgbm
 
 File Structure
 --------------
