@@ -14,36 +14,45 @@ This user guide provides instructions on how to use the Korean real estate predi
 
 .. code-block:: console
 
-    pip install pandas numpy lightgbm
+    $ pip install pandas numpy lightgbm
 
 File Structure
 --------------
-Real_Estate_Prediction.ipynb: Jupyter Notebook file containing the main code and the implemented prediction model.
-dataset.csv: Dataset file used for model training and testing.
+
+1.Real_Estate_Prediction.ipynb: Jupyter Notebook file containing the main code and the implemented prediction model.
+
+2.dataset.csv: Dataset file used for model training and testing.
+
 Usage Instructions
-Environment Setup
+------------------
 
-Confirm the installation of Python and required libraries.
-Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
-Data Loading
+1. Environment Setup
 
-Load the data from the dataset.csv file within the code to inspect and preprocess the data.
-Model Training
+   *. Confirm the installation of Python and required libraries.
+   *. Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
 
-Train the model using LightGBM.
-Adjust model hyperparameters in the code if desired.
-Model Prediction
+2. Data Loading
 
-Apply the model to test data or new data for predictions.
-Results Inspection
+    *. Load the data from the 'dataset.csv' file within the code to inspect and preprocess the data.
 
-Visualize and analyze the performance and prediction results of the model.
-Conclusion
+3. Model Training
 
-Once the tasks are completed, run all cells and save the results.
-Notes
-If warnings or errors occur during code execution, review the messages and resolve any issues.
-Consider data preprocessing, hyperparameter tuning, or other enhancements for model performance.
-Assistance
-Feel free to reach out if you have any issues or questions.
+    *. Train the model using LightGBM.
+    *. Adjust model hyperparameters in the code if desired.
+
+4. Model Prediction
+
+    *. Apply the model to test data or new data for predictions.
+
+5. Results Inspection
+
+    *. Visualize and analyze the performance and prediction results of the model.
+
+6. Conclusion
+
+    *. Once the tasks are completed, run all cells and save the results.
+
+.. note::
+    If warnings or errors occur during code execution, review the messages and resolve any issues.
+    Consider data preprocessing, hyperparameter tuning, or other enhancements for model performance.
 
