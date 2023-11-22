@@ -17,8 +17,11 @@ This user guide provides instructions on how to use the Korean real estate predi
 
 bash
 Copy code
-pip install pandas numpy lightgbm
+.. code-block:: console
+  pip install pandas numpy lightgbm
+
 File Structure
+--------------
 Real_Estate_Prediction.ipynb: Jupyter Notebook file containing the main code and the implemented prediction model.
 dataset.csv: Dataset file used for model training and testing.
 Usage Instructions
